@@ -1,0 +1,18 @@
+./cache/variable/bert/ecommerce
+Test score: p:0.7971, r:0.8166, f:0.8067
+ b=8, lr=0.001000, de_lr=0.0300, optimizer=Adamax, h=200, dropout=0.50, att_dropout=0.40, layer=4   (test: set b=1)
+
+
+./cache/variable/bert/ontonote
+Test score: p=0.8068  r=0.8309  f=0.8187
+ b=8, lr=0.005000, de_lr=0.0500, optimizer=Adamax, h=300, dropout=0.50, att_dropout=0.50, layer=4
+
+
+ ./cache/variable/bert/weibo_all
+Test score: p:0.7252, r:0.6884, f:0.7063
+ b=1, lr=0.003500, de_lr=0.0500, optimizer=Adamax, h=200, dropout=0.30, att_dropout=0.30, layer=4
+
+
+ ./cache/variable/bert/resume
+Test score: p:0.9668, r:0.9638, f:0.9653
+ b=8, lr=0.004000, de_lr=0.0500, optimizer=Adamax, h=200, dropout=0.30, att_dropout=0.30, layer=4   (test: set b=1)
