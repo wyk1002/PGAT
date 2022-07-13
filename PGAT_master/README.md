@@ -2,10 +2,9 @@
 This is the implementation of our arxiv paper “PGAT: Polymorphic Graph Attention Network for Chinese NER”, which is a Polymorphic Graph Attention Network that aims to capture the dynamic relationship between characters and words from multiple dimensions to enhance the representation of characters.
 
 ## Requirement:
-1.  python 3.6
-2.  tensorflow-gpu 2.4.1
-3.  tensorflow-addons  0.13.0
-4.  transformers 4.2.1 
+1.  python 3.8.3
+2.  torch 1.7.1+cu110
+3.  transformers 4.2.1 
 ## Input format:
 CoNLL format, with each character and its label split by a whitespace in a line. The "BMESO" or "BIESO" tag scheme is prefered.
 ```python
