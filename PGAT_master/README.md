@@ -77,7 +77,7 @@ step 3: modify the parameters in Controller your built according to your dataset
 
 ## Cite:
 @article{Wang_2022,	doi = {10.1016/j.eswa.2022.117467},	
-url = {https://doi.org/10.1016/j.eswa.2022.117467},	year = 2022,	month = {may},	publisher = {Elsevier {BV}},	
+url = {https://doi.org/10.1016/j.eswa.2022.117467 },	year = 2022,	month = {may},	publisher = {Elsevier {BV}},	
 pages = {117467},	author = {Yuke Wang and Ling Lu and Yang Wu and Yinong Chen},	
 title = {Polymorphic Graph Attention Network for Chinese {NER}},	
 journal = {Expert Systems with Applications}}
